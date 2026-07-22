@@ -66,7 +66,7 @@ Outside academics, I enjoy building personal projects ranging from web apps and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanggaBudinovanto&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanggaBudinovanto&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaBudinovanto&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
