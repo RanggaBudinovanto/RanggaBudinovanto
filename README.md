@@ -66,14 +66,6 @@ Outside academics, I enjoy building personal projects ranging from web apps and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanggaBudinovanto&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RanggaBudinovanto&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RanggaBudinovanto&theme=github_dark" width="45%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanggaBudinovanto&theme=dark&hide_border=true" width="60%" />
 </p>
 
